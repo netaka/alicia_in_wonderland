@@ -405,6 +405,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: 11418194, guid: 56103d137be1dcf4187f7d7eec5aaa89, type: 2}
+      propertyPath: camObj
+      value: 
+      objectReference: {fileID: 135973675}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 56103d137be1dcf4187f7d7eec5aaa89, type: 2}
   m_IsPrefabParent: 0
